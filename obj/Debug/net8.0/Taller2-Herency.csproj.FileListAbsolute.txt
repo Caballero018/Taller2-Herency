@@ -1,0 +1,15 @@
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/obj/Debug/net8.0/Taller2-Herency.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/obj/Debug/net8.0/Taller2-Herency.AssemblyInfoInputs.cache
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/obj/Debug/net8.0/Taller2-Herency.AssemblyInfo.cs
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/obj/Debug/net8.0/Taller2-Herency.csproj.CoreCompileInputs.cache
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/obj/Debug/net8.0/Taller2-Herency.sourcelink.json
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/bin/Debug/net8.0/Taller2-Herency
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/bin/Debug/net8.0/Taller2-Herency.deps.json
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/bin/Debug/net8.0/Taller2-Herency.runtimeconfig.json
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/bin/Debug/net8.0/Taller2-Herency.dll
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/bin/Debug/net8.0/Taller2-Herency.pdb
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/obj/Debug/net8.0/Taller2-Herency.dll
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/obj/Debug/net8.0/refint/Taller2-Herency.dll
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/obj/Debug/net8.0/Taller2-Herency.pdb
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/obj/Debug/net8.0/Taller2-Herency.genruntimeconfig.cache
+/home/pc-vostro-3400/Documentos/personal/universidad/estructura_lab/Taller2-Herency/obj/Debug/net8.0/ref/Taller2-Herency.dll
